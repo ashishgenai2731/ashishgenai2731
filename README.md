@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Kumar 👋
 
-**Senior Software Engineer · Generative AI · Machine Learning**
+**Senior Software Engineer · Generative AI · Machine Learning**<br>
 Bengaluru, India · open to AI/ML engineering roles in Dubai / UAE
 
 I build backend systems and LLM applications in Python: agentic RAG, multi-agent workflows,
@@ -36,11 +36,11 @@ by a source.
 
 ## 🛠️ Tech I work with
 
-**GenAI / LLMs:** LangGraph · LangChain · LlamaIndex · RAG / agentic RAG · MCP · QLoRA / PEFT · LangSmith · RAGAs
-**Retrieval:** Pinecone · FAISS · Chroma · Qdrant · BM25 · cross-encoder reranking · Sentence-Transformers
-**ML / CV:** PyTorch · Transformers · OpenCV · CNNs / ResNet / YOLO · MLflow
-**Backend:** Python (asyncio, multiprocessing) · FastAPI · Flask · Redis · PostgreSQL · MongoDB
-**Cloud & DevOps:** AWS (Lambda, S3, EC2, SQS, CloudWatch, SageMaker) · Docker · Kubernetes · CI/CD
+- **GenAI / LLMs:** LangGraph · LangChain · LlamaIndex · RAG / agentic RAG · MCP · QLoRA / PEFT · LangSmith · RAGAs
+- **Retrieval:** Pinecone · FAISS · Chroma · Qdrant · BM25 · cross-encoder reranking · Sentence-Transformers
+- **ML / CV:** PyTorch · Transformers · OpenCV · CNNs / ResNet / YOLO · MLflow
+- **Backend:** Python (asyncio, multiprocessing) · FastAPI · Flask · Redis · PostgreSQL · MongoDB
+- **Cloud & DevOps:** AWS (Lambda, S3, EC2, SQS, CloudWatch, SageMaker) · Docker · Kubernetes · CI/CD
 
 ---
 
